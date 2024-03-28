@@ -12,7 +12,7 @@ li {
     font-weight: bold;
   }
 
- body > button {
+ #player-button {
     font-family: "helvetica neue", helvetica, sans-serif;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -24,4 +24,3 @@ li {
     padding: 3px 10px;
     cursor: pointer;
   }
-  
